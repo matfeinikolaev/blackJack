@@ -1,0 +1,9 @@
+h1{
+    position: relative;
+    width: 100px;
+    margin: auto auto auto 0;
+}
+#buttons{
+    position: relative;
+    margin: auto;
+}
